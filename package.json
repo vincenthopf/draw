@@ -1,7 +1,7 @@
 {
   "name": "@markboard/markboard",
   "engines": {
-    "node": "14.21.2"
+    "node": "20.x"
   },
   "scripts": {
     "local": "export MONGO_URL= && meteor run",
